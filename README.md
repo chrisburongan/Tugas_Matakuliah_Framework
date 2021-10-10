@@ -25,19 +25,19 @@ kenapa saya menggunakan Framework Laravel :
 
 1. Langkah Pertama, Clone Repository ini
 
-     git clone https://github.com/chrisburongan/PerkulihanWeb.git
+     'git clone https://github.com/chrisburongan/PerkulihanWeb.git'
      
-2. Langkah Kedua, Instalasi Composer 
+2. Langkah Kedua, Instalasi Composer:
     
-     composer install
+     'composer install'
 
 3. Buat Key Baru:
 
-    php artisan key:generate
+    'php artisan key:generate'
     
 4. Jalankan Web 
 
-     php artisan serve
+     'php artisan serve'
 
 
 
