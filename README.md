@@ -25,7 +25,7 @@ kenapa saya menggunakan Framework Laravel :
 
 1. Langkah Pertama, Clone Repository ini
 
-     git clone git@github.com:RayClust/PokeGuideWebsite.git
+     git clone https://github.com/chrisburongan/PerkulihanWeb.git
      
 2. Langkah Kedua, Instalasi Composer 
     
