@@ -9,7 +9,7 @@
 
 ## Pengembangan Aplikasi Menggunakan Framewrok Laravel
 
-Dalam Pengembangan Aplikasi ini, saya menggunakan Framework Laravel untuk pengimplementasian Programnya.
+Dalam Pengembangan Aplikasi untuk Gereja Saya di GKKD Banjarmasin ini, saya menggunakan Framework Laravel untuk pengimplementasian Programnya.
 kenapa saya menggunakan Framework Laravel :
 - Lebih Efesien dalam Pengimplementasian
 - Lebih aman dibanding menggunakan Native PHP
